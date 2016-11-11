@@ -3,6 +3,9 @@
 /**
  * @file
  * Contains \VM\Console\Develop\ChainBuildCommand.
+ * This custom chain is a proof of concept and can be called using:
+ * drupal chain:build
+ * 
  */
 
 namespace VM\Console\Command\Develop;
